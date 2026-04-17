@@ -11,7 +11,7 @@
 I'm an ENTC engineer with a strong interest in Artificial Intelligence and Machine Learning.  
 I love building systems that combine hardware knowledge with intelligent software — especially in the areas of Edge AI, Industrial Automation, and Generative AI.
 
-Currently pursuing Honours in AIML | CGPA: 8.30
+Currently pursuing Honours in AIML | 7 sem CGPA: 8.30
 
 ---
 
