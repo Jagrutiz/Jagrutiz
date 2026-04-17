@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Jagruti Pankaj Zunjarrao 👋
 
-<!--
-**Jagrutiz/Jagrutiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.E. Student — Electronics & Telecommunication Engineering  
+📍 Pune, Maharashtra | Wadia College of Engineering (SPPU)  
+🤖 Passionate about AI/ML, Deep Learning & Industrial IoT  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm an ENTC engineer with a strong interest in Artificial Intelligence and Machine Learning.  
+I love building systems that combine hardware knowledge with intelligent software — especially in the areas of Edge AI, Industrial Automation, and Generative AI.
+
+Currently pursuing Honours in AIML | CGPA: 8.30
+
+---
+
+## Skills
+
+**Languages:** Python, C/C++, SQL, HTML/CSS  
+**AI/ML:** Scikit-learn, TensorFlow, Pandas, NumPy, Neural Networks  
+**Tools:** Arduino IDE, ESP32, Git, Google Colab  
+**Technologies:** Embedded Systems, IoT, Deep Learning, PLC  
+
+---
+
+## Projects
+
+### Student Performance Prediction (ML)
+- Built a machine learning model using Python to predict student academic outcomes
+- Applied Linear Regression and Neural Networks | ~87% accuracy
+- Tools: Python, Scikit-learn, Pandas, NumPy
+
+### Automated Testing for Annunciator Systems using Generative AI
+- Developed an automated testing framework using Generative AI concepts
+- Simulated diverse test scenarios to validate alarm system responses
+- Tools: Python, OpenAI API, GenAI concepts
+
+---
+
+## Certifications
+- Python for Everybody — University of Michigan (Coursera)
+
+---
+
+## Connect with Me
+📧 jagrutizunjarrao31@gmail.com  
+🔗 [LinkedIn]https://www.linkedin.com/in/jagruti-zunjarrao-b89b90339?utm_source=share_via&utm_content=profile&utm_medium=member_ios
